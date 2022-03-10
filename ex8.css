@@ -1,0 +1,30 @@
+html {
+  font: 16px;
+}
+
+div {
+  font: 30px;
+  vertical-align: top;
+}
+
+#em {
+  font-size: 2em;
+}
+
+#rem {
+  font-size: 2rem;
+}
+
+.div1 {
+  width: 25%;
+  height: auto;
+  display: inline-block;
+  background-color: aqua;
+}
+
+.div2 {
+  width: 25%;
+  height: auto;
+  display: inline-block;
+  background-color: coral;
+}
